@@ -1,6 +1,5 @@
 package newcoder;
 
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 
 //输入一个递增排序的数组和一个数字S，在数组中查找两个数
